@@ -12,7 +12,7 @@ TextUtils is a powerful and simple web-based text utility tool built using **Rea
 - 📋 Copy text to clipboard
 - 📊 Live **word & character count**
 - 🔍 Text preview panel
-- 🌗 Light/Dark mode (optional)
+- 🌗 Light/Dark mode 
 
 ---
 
